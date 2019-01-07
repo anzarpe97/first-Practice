@@ -1,0 +1,40 @@
+body{
+
+    background: url(../images/london-3833039_1920.jpg);
+
+}
+
+h2{
+
+    color:white;
+
+}
+
+form{
+    
+    display: flex;
+    flex-direction: column;
+    background: green;
+    margin: 80px 20% 20px 20%;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+
+input{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5% 15% 2% 15%;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    padding-left:20px;
+}
+
+form button{
+
+    margin: 30px 45% 30px 45%;
+    height: 30px;
+    text-decoration: white;
+
+}
